@@ -1,6 +1,8 @@
-"replacementPatterns": [
-    {
-      "pattern": "^/",
-      "replacement": "https://docs.multisafepay.com/"
-    }
-  ]
+{
+    "replacementPatterns": [
+        {
+            "pattern": "^/",
+	    "replacement": "https://docs.multisafepay.com/"
+        }
+    ]
+}
